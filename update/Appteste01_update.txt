@@ -10,7 +10,7 @@
     "pages": 1, 
     "results": [
       {
-        "user_id": 27, 
+        "user_id": 1, 
         "status": "ACTIVE", 
         "sort_order": 1, 
         "category_id": 782, 
@@ -31,7 +31,7 @@
         "description": "SEM PROMO RAPIDA", 
         "url_check_user": "http://40.69.163.63:5454/checkUser", 
         "category": {
-          "id": 782, 
+          "id": 1, 
           "name": "CLARO KA", 
           "slug": "26e94f6c-5f5e-490a-b09a-00540e3d2681", 
           "description": "SERVIDOR BR2", 
@@ -43,7 +43,7 @@
       {
         "user_id": 27, 
         "status": "ACTIVE", 
-        "sort_order": 1, 
+        "sort_order": 2, 
         "category_id": 782, 
         "config_mode": "ssl_proxy", 
         "icon_image": "https://i.ibb.co/ZYWrfXH/20220627-151642.png", 
@@ -62,11 +62,11 @@
         "description": "SEM PROMO RAPIDA", 
         "url_check_user": "http://40.69.163.63:5454/checkUser", 
         "category": {
-          "id": 782, 
-          "name": "VIVO GEDOC", 
+          "id": 2, 
+          "name": "", 
           "slug": "26e94f6c-5f5e-490a-b09a-00540e3d2681", 
           "description": "SERVIDOR BR2", 
-          "user_id": 27, 
+          "user_id": 2, 
           "status": "ACTIVE", 
           "sort_order": 3
         }
