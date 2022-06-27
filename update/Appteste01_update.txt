@@ -17,7 +17,7 @@
         "username": "", 
         "server_port": 443, 
         "icon_image": "https://i.ibb.co/ZYWrfXH/20220627-151642.png", 
-        "user_id": 2, 
+        "user_id": 1, 
         "password": "", 
         "udp_port": "7300", 
         "category_id": 1, 
@@ -39,13 +39,13 @@
           "id": 211, 
           "status": "ACTIVE", 
           "sort_order": 2, 
-          "user_id": 2, 
+          "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
         }
       },
      {
-        "name": "CLARO SPEED", 
+        "name": "VIVO SPEED", 
         "config_v2ray": "", 
         "server_hostname": "ednet2.brt1.ml", 
         "description": "", 
