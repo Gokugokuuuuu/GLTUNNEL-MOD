@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#007BFF\">CLOUD HAUNT</font>", 
+      "value": "<font color=\"#FFFFFF\">CLOUD GOKU</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/5T0g3t7/783a193642e4c1459b52aa293076e9d3.jpg", 
+      "value": "https://i.ibb.co/RT4FbYP/stories.jpg", 
       "name": "app_background_image"
     },
     {
@@ -33,13 +33,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#007BFF", 
+      "value": "#010637", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#007BFF", 
+      "value": "#645E67", 
       "id": 42, 
       "name": "icon_color"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO CLOUD - HAUNT!!", 
+      "value": "SEJAM BEM VINDO(A)S AO DEV4TUNNEL!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
