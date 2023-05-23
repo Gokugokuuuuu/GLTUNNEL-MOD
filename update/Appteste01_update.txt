@@ -16,7 +16,7 @@
         "description": "", 
         "username": "", 
         "server_port": 80, 
-        "icon_image": "https://raw.githubusercontent.com/Gokugokuuuuu/GLMOD/main/operadora/ic_vivo.png", 
+        "icon_image": "https://i.postimg.cc/52xgydPK/ic-vivo.png", 
         "user_id": 1,
         "password": "", 
         "udp_port": "7300", 
